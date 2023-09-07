@@ -3,40 +3,40 @@
     "uuid": "6b93192e-8392-11ed-a4ec-f35655123e54",
     "name": "Abdurrahman Sudais",
     "bio": null,
-    "photo_url": "/storage/uploads/2022/04/07/Abdul-Rahman-Al-Sudais-at-digital-mode-by-syed-noman-zafar-855x1024_uid_624e48fc18080.jpeg",
+    "photo_url": "photos/Abdul-Rahman-Al-Sudais.jpg",
     "audio_url": "https://ia601904.us.archive.org/14/items/AbdurrahmanSudaisPerJuz/",
-    "audio_preview_url": "/2022/05/19/Sudais-AlFatihah_uid_6285b8d293331.mp3"
+    "audio_preview_url": "previews/Sudais-AlFatihah_uid_6285b8d293331.mp3"
   },
   {
     "uuid": "b0d6654a-8392-11ed-a77c-3b5da6110ec0",
     "name": "Mishary Al-Afasy",
     "bio": null,
-    "photo_url": "storage/uploads/photos/MisharyAlAfasy.jpg",
+    "photo_url": "photos/MisharyAlAfasy.jpg",
     "audio_url": "https://ia601804.us.archive.org/11/items/MisharyRasyidPerJuz/Mishary/",
-    "audio_preview_url": "/2022/05/19/Mishary-AlFatihah_uid_6285b8d08f1c4.mp3"
+    "audio_preview_url": "previews/Mishary-AlFatihah_uid_6285b8d08f1c4.mp3"
   },
   {
     "uuid": "c36198f6-8392-11ed-84cb-47bcbb0dec50",
     "name": "Sa'ad Al-Ghamidi",
     "bio": null,
-    "photo_url": "storage/uploads/photos/Syaikh-Al-Ghamidi.jpeg",
+    "photo_url": "photos/Syaikh-Al-Ghamidi.jpeg",
     "audio_url": "https://ia903200.us.archive.org/20/items/SaadAl-GhamidiPerJuz/",
-    "audio_preview_url": "/2022/05/19/SaadAlGhamidi-AlFatihah_uid_6285b8d123def.mp3"
+    "audio_preview_url": "previews/SaadAlGhamidi-AlFatihah_uid_6285b8d123def.mp3"
   },
   {
     "uuid": "dbfb218e-8392-11ed-b58b-df8e705b28c2",
     "name": "Hany Ar-Rifa'i",
     "bio": null,
-    "photo_url": "storage/uploads/photos/Hani-ar-Rifai.jpeg",
+    "photo_url": "photos/Hani-ar-Rifai.jpeg",
     "audio_url": "https://ia801207.us.archive.org/10/items/HanyAr-RifaiPerJuz/",
-    "audio_preview_url": "/2022/05/19/HaniArRifai-AlFatihah_uid_6285b8cddd0b4.mp3"
+    "audio_preview_url": "previews/HaniArRifai-AlFatihah_uid_6285b8cddd0b4.mp3"
   },
   {
     "uuid": "f48cdfe4-8392-11ed-b0ed-d3c9a79202d9",
     "name": "Saud Al-Shuraim",
     "bio": null,
-    "photo_url": "storage/uploads/photos/Saud-Al-Shuraim.jpg",
+    "photo_url": "photos/Saud-Al-Shuraim.jpg",
     "audio_url": "https://ia903208.us.archive.org/20/items/SaudAlShuraimPerJuz/",
-    "audio_preview_url": "/2022/05/19/SaudAlShuraim-AlFatihah_uid_6285b8d1d2741.mp3"
+    "audio_preview_url": "previews/SaudAlShuraim-AlFatihah_uid_6285b8d1d2741.mp3"
   }
 ]
